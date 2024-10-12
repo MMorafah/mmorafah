@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% for page in site.pages %}
+    {% if page.title == "Teaching" %}
+      {{ page.content | markdownify }}
+    <!-- {{ page.content | split: '\n' | slice: 1, 100 | join: '\n' | markdownify }} -->
+    {% endif %}
+  {% endfor %}
+
+<!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
