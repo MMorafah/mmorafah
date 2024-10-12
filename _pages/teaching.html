@@ -9,11 +9,10 @@ author_profile: true
 
 <div class="container">
   {% for page in site.pages %}
-  {% if page.title == "Teaching" %}
-    {{ page.content | markdownify }}
-  <!-- {{ page.content | split: '\n' | slice: 1, 100 | join: '\n' | markdownify }} -->
-  {% endif %}
-{% endfor %}
+    {% if page.title == "Teaching" %}
+      {{ page.content | markdownify }}
+    {% endif %}
+  {% endfor %}
 </div>
 
 <!-- {% for post in site.teaching reversed %}
