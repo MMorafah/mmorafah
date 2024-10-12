@@ -5,6 +5,8 @@ permalink: /publications/
 
 ## Publications
 
+For a full list of publications, please see my <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar profile</a>.
+
 ### Preprints and Working Papers
 1. *"Data Acquisition via Experimental Design for Decentralized Data Markets"*, Working Paper, 2024. (with V. Kungurtsev)
 1. *"Leveraging GPT for Robust Causal Treatment Effect Estimation in Limited Experimental Settings"*, Working Paper, 2024. (with K. Xu, and O. Sheng)

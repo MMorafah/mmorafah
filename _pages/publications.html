@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <div class="container">
-  <h1>Publications</h1>
 
   {% if site.author.googlescholar %}
     <div class="wordwrap">
@@ -19,7 +18,8 @@ author_profile: true
 
   {% for page in site.pages %}
     {% if page.title == "All Publications" %}
-      {{ page.content | markdownify }}
+      <!-- {{ page.content | markdownify }} -->
+    {{ page.content | split: '\n' | slice: 1, 100 | join: '\n' | markdownify }}
     {% endif %}
   {% endfor %}
 </div>
