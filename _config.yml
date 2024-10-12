@@ -21,7 +21,7 @@ repository               : "https://mmorafah.github.io/mmorafah/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpeg"
+  avatar           : "bio-photo2.jpg" #"profile2.jpeg"
   name             : "Mahdi Morafah"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Electrical and Computer Engineering at UC San Diego<br> AI Researcher"
