@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/Mahdi_Morafah_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
