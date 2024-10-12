@@ -7,20 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD Candidate in Electrical and Computer Engineering at University of California San Diego (UCSD), being advised by [Prof. Bill Lin](http://cwcserv.ucsd.edu/~billlin/).
+I am a final-year PhD candidate in Electrical and Computer Engineering at the University of California, San Diego (UCSD), advised by [Prof. Bill Lin](http://cwcserv.ucsd.edu/~billlin/). I hold an M.S. from UCSD and a B.S. from Amirkabir University of Technology, both in Electrical and Computer Engineering.
 
-I am broadly interested in Machine Learning, Information Systems, Operation Management, and Economics. My current research focus is on **AI in Business** and **Generative AI**. I also actively publish in **Federated Learning** and **Machine Learning**. Here are the research themes that I am currently working on: 
+My research focuses on the intersection of **Artificial Intelligence (AI) and Business**, with broad interests in decentralized AI systems, generative AI, information systems, operations management, and economics. My work has resulted in publications at top-tier AI conferences, including NeurIPS and AAAI, as well as journals like IEEE Transactions on Artificial Intelligence. I have also served as a reviewer for several top-tier AI conferences and journals.
 
-- Causal Learning and Inference in Business and Economics
-- Generative AI for Heterogeneous Treatment Effect Analysis
-- Generative AI for Business Market and Branding
-- Decentralized Data Marketplace
-- Device Heterogenous Federated Learning
+In addition to my academic experience, I have completed AI research internships at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI Research.
 
-I previously received a M.S. in Electrical and Computer Engineering at UCSD in 2021, and a B.S. in Electrical Engineering at Tehran Polytechnique.
+<span style="color: red;">**I am actively seeking post-doctoral opportunities in business schools. Please feel free to reach out if you have any openings.**</span>
 
-I also worked as a machine learning research intern at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI.  
-
-<span style="color: red;">**I am looking actively looking for post-doc positions in Business school and machine learning positions.**</span>
-
-<span style="color: red;">**I am open to collaborate on interesting project, please feel free to reach out.**</span>
+<span style="color: black;">**I am also open to collaborating on exciting projects. Please don’t hesitate to contact me.**</span>
