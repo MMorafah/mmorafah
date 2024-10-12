@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV](/files/Mahdi_Morafah_CV.pdf)
+[Download my CV](https://mmorafah.github.io/mmorafah/files/Mahdi_Morafah_CV.pdf)
