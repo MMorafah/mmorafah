@@ -19,12 +19,9 @@ In addition to my academic experience, I have completed AI research internships 
 
 # News
 
-[October 2024]  I will present our work *"Deep Causal Inequalities: Demand Estimation in the Differentiated Products Markets"* at **INFORMS 2024** on October 20, summit - 338.
+[October 2024] <mark>INFORMS Annual Meeting</mark>  I will present our work *"Deep Causal Inequalities: Demand Estimation in the Differentiated Products Markets"* at **INFORMS 2024** on Sunday, October 20 | 2:15 PM - 3:30 PM, summit - 338.
 
 [September 2024]  Our paper *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"* **Accepted at NeurIPS 2024** [[Paper](https://arxiv.org/abs/2409.18461), [Project Website](https://mmorafah.github.io/takflpage/), [Code](https://github.com/mmorafah/takfl)].
 
-[August 2024]  Our paper *"Large Scale Delocalized Federated Learning
-Over a Huge Diversity of Devices in Emerging Next-Generation Edge Intelligence Environments"* **Accepted at ICCAD 2024** as invited talk.
-
-[September 2024] **Internship Completed**: I have successfully completed my research internship with Qualcomm AI Research, where I focused on federated learning for large-scale AI systems.
+[August 2024]  Our paper *"Large Scale Delocalized Federated Learning Over a Huge Diversity of Devices in Emerging Next-Generation Edge Intelligence Environments"* **Accepted at ICCAD 2024** as invited talk.
 
