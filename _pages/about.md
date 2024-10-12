@@ -19,16 +19,6 @@ In addition to my academic experience, I have completed AI research internships 
 
 # News
 
-[October 2024]  Our paper *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"* **Accepted at NeurIPS 2024** [[Paper](https://arxiv.org/abs/2409.18461), [Project Website](https://mmorafah.github.io/takflpage/), [Code](https://github.com/mmorafah/takfl)].<br>
+[October 2024]  Our paper *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"* **Accepted at NeurIPS 2024** [[Paper](https://arxiv.org/abs/2409.18461), [Project Website](https://mmorafah.github.io/takflpage/), [Code](https://github.com/mmorafah/takfl)].
 
 [September 2024] **Internship Completed**: I have successfully completed my research internship with Qualcomm AI Research, where I focused on federated learning for large-scale AI systems.
-
-  
-## July 2024
-- **New Preprint Available**: A new preprint of my work on *Deep Causal Inequalities (DeepCI)* is now available on arXiv.
-  
-## May 2024
-- **Invited Reviewer**: I was invited to serve as a reviewer for the AAAI 2024 conference.
-  
-## February 2024
-- **New Collaboration**: I have started a new research collaboration with Prof. [John Doe](http://example.com) on decentralized AI systems for financial markets.
