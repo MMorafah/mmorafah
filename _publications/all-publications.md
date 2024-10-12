@@ -1,11 +1,13 @@
 ---
-title: "All Publications"
+title: "Publications"
 permalink: /publications/
 ---
 
-## Publications
-
 For a full list of publications, please see my <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar profile</a>.
+
+**Disclaimer:** This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
+
+<p><mark>* denotes equal contribution and joint lead authorship</mark></p>
 
 ### Preprints and Working Papers
 1. *"Data Acquisition via Experimental Design for Decentralized Data Markets"*, Working Paper, 2024. (with V. Kungurtsev)
