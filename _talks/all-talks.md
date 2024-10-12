@@ -1,6 +1,6 @@
 ---
 title: "Talks"
-permalink: /talks/
+permalink: talks/
 ---
 
 ## Invited Talks
