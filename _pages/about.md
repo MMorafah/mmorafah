@@ -19,7 +19,7 @@ In addition to my academic experience, I have completed AI research internships 
 
 # News
 
-[October 2024] <mark>INFORMS Annual Meeting</mark>  I will present our work *"Deep Causal Inequalities: Demand Estimation in the Differentiated Products Markets"* at **INFORMS 2024** on Sunday, October 20 | 2:15 PM - 3:30 PM, summit - 338.
+[October 2024] <mark>INFORMS Annual Meeting</mark>  I will present our work *"Deep Causal Inequalities: Demand Estimation in the Differentiated Products Markets"* at **INFORMS 2024** on Sunday, October 20, 2:15 PM - 3:30 PM, summit - 338.
 
 [September 2024]  Our paper *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"* **Accepted at NeurIPS 2024** [[Paper](https://arxiv.org/abs/2409.18461), [Project Website](https://mmorafah.github.io/takflpage/), [Code](https://github.com/mmorafah/takfl)].
 
