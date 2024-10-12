@@ -36,9 +36,10 @@ author_profile: true
   <h1>Publications</h1>
 
   {% for page in site.pages %}
-    {% if page.permalink == "/publications/" %}
-      {{ page.content | markdownify }}
+    {% if page.title == "All Publications" %}
+      {{ page.content }}
     {% endif %}
+  {% endfor %}
 </div>
 
 <h2>Publications</h2>
