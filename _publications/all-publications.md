@@ -6,8 +6,9 @@ permalink: /publications/
 ## Publications
 
 ### Preprints and Working Papers
-1. *Leveraging GPT for Robust Causal Treatment Effect Estimation in Limited Experimental Settings*, Working Paper, 2024. (with K. Xu, O. Sheng, **M. Morafah**)
-2. *Data Acquisition via Experimental Design for Decentralized Data Markets*, Working Paper, 2024. (with **M. Morafah**, V. Kungurtsev)
+1. *"Data Acquisition via Experimental Design for Decentralized Data Markets"*, Working Paper, 2024. (with V. Kungurtsev)
+1. *"Leveraging GPT for Robust Causal Treatment Effect Estimation in Limited Experimental Settings"*, Working Paper, 2024. (with K. Xu, and O. Sheng)
+2. *"Data Acquisition via Experimental Design for Decentralized Data Markets"*, Working Paper, 2024. (with V. Kungurtsev)
 3. *Decentralized Minimax Estimation of Conditional Moment Models*, Working Paper, 2024. (with **M. Morafah**, V. Kungurtsev)
 4. *Optimal Ranking Algorithm on Online Health Forum*, Working Paper (draft available upon request), 2024. (with Z. Hao, **M. Morafah**, K. Xu, T. Zhou)
 5. *Deep Causal Inequalities: Demand Estimation in Differentiated Products Markets*, Working Paper (draft available upon request), 2024. (with **M. Morafah**, E. Bakhitov, A. Singh, J. Zhang)
