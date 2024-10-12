@@ -19,10 +19,12 @@ In addition to my academic experience, I have completed AI research internships 
 
 # News
 
-## October 2024
+[October 2024]
+
 - **Accepted Paper at NeurIPS 2024**: My latest research on *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"* has been accepted for publication at NeurIPS 2024.
 
-## September 2024
+[September 2024]
+
 - **Internship Completed**: I have successfully completed my research internship with Qualcomm AI Research, where I focused on federated learning for large-scale AI systems.
   
 ## July 2024
