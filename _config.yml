@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo2.jpg"
+  avatar           : "images/bio-photo2.jpg"
   name             : "Mahdi Morafah"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Electrical and Computer Engineering at UC San Diego<br> AI Researcher"
@@ -41,9 +41,9 @@ author:
  
 
   # Social media
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/mahdi-morafah-ab97a8106/"
   medium           : # URL
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/MorafahMahdi"
   youtube          : # Username
 
 # Publication Category - The following the list of publication categories and their headings
