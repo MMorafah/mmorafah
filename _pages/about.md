@@ -16,3 +16,20 @@ In addition to my academic experience, I have completed AI research internships 
 <span style="color: red;">**I am actively seeking post-doctoral opportunities in business schools. Please feel free to reach out if you have any openings.**</span>
 
 <span style="color: black;">**I am also open to collaborating on exciting projects. Please don’t hesitate to contact me.**</span>
+
+# News
+
+## October 2024
+- **Accepted Paper at NeurIPS 2024**: My latest research on *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"* has been accepted for publication at NeurIPS 2024.
+
+## September 2024
+- **Internship Completed**: I have successfully completed my research internship with Qualcomm AI Research, where I focused on federated learning for large-scale AI systems.
+  
+## July 2024
+- **New Preprint Available**: A new preprint of my work on *Deep Causal Inequalities (DeepCI)* is now available on arXiv.
+  
+## May 2024
+- **Invited Reviewer**: I was invited to serve as a reviewer for the AAAI 2024 conference.
+  
+## February 2024
+- **New Collaboration**: I have started a new research collaboration with Prof. [John Doe](http://example.com) on decentralized AI systems for financial markets.
