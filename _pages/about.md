@@ -13,7 +13,7 @@ My research focuses on the intersection of **Artificial Intelligence (AI) and Bu
 
 In addition to my academic experience, I have completed AI research internships at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI Research.
 
-<span style="color: red;">**I am actively seeking post-doctoral opportunities in business school. Please contact me if there are potential openings and collaborations.**</span>
+<span style="color: red;">**I am actively seeking opportunities in business school. Please contact me if there are potential openings and collaborations.**</span>
 
 <!-- <span style="color: black;">**I am also open to collaborating on exciting projects. Please don’t hesitate to contact me.**</span> -->
 
