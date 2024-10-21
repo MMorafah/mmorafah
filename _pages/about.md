@@ -9,11 +9,11 @@ redirect_from:
 
 I am a final-year PhD candidate in Electrical and Computer Engineering at the University of California, San Diego (UCSD), advised by [Prof. Bill Lin](http://cwcserv.ucsd.edu/~billlin/). I hold an M.S. from UCSD and a B.S. from Amirkabir University of Technology, both in Electrical and Computer Engineering.
 
-My research focuses on the intersection of **Artificial Intelligence (AI) and Business**, with broad interests in decentralized AI systems, generative AI, information systems, operations management, and economics. My work has resulted in publications at top-tier AI conferences, including NeurIPS and AAAI, as well as journals like IEEE Transactions on Artificial Intelligence. I have also served as a reviewer for several top-tier AI conferences and journals.
+My current research focuses on the intersection of **Artificial Intelligence and Healthcare**, with broad interests in decentralized AI systems, generative AI, information systems, operations management, and economics. My work has resulted in publications at top-tier AI conferences, including NeurIPS and AAAI, as well as journals like IEEE Transactions on Artificial Intelligence. I have also served as a reviewer for several top-tier AI conferences such as ICLR, and AISTAT and journals such as IEEE TMC, and SIAM Journal on Optimization.
 
 In addition to my academic experience, I have completed AI research internships at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI Research.
 
-<span style="color: red;">**I am actively seeking opportunities in business school. Please contact me if there are potential openings and collaborations.**</span>
+<!-- <span style="color: red;">**I am actively seeking opportunities in business school. Please contact me if there are potential openings and collaborations.**</span> -->
 
 <!-- <span style="color: black;">**I am also open to collaborating on exciting projects. Please don’t hesitate to contact me.**</span> -->
 
