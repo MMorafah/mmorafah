@@ -10,10 +10,9 @@ For a full list of publications, please see my <a href="{{ site.author.googlesch
 <p><mark>* denotes equal contribution and authorship</mark></p>
 
 ### Preprints and Working Papers
-1. *"Leveraging GPT for Robust Causal Treatment Effect Estimation in Limited Experimental Settings"*, Working Paper, 2024. (with K. Xu, and O. Sheng)
+1. *"Leveraging GPT for Robust Causal Treatment Effect Estimation in Limited Experimental Settings"*, Working Paper, 2024.
 2. *"Data Acquisition via Experimental Design for Decentralized Data Markets"*, Working Paper, 2024. (with V. Kungurtsev)
-3. *"Decentralized Minimax Estimation of Conditional Moment Models"*, Working Paper, 2024. (with V. Kungurtsev)
-4. *"Optimal Ranking Algorithm on Online Health Forum"*, Working Paper (draft available upon request), 2024. (with Z. Hao, K. Xu, T. Zhou)
+3. *"Data Markets and Market Failure: Asymmetric Information and Concentration"*, Working Paper, 2024. (with V. Kungurtsev)
 5. *"Deep Causal Inequalities: Demand Estimation in Differentiated Products Markets"*, Working Paper (draft available upon request), 2024. (with E. Bakhitov, A. Singh, J. Zhang)
 
 ### Conference Papers
@@ -23,7 +22,7 @@ For a full list of publications, please see my <a href="{{ site.author.googlesch
 4. *"Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity"*, **IEEE 41st International Conference on Distributed Computing Systems (ICDCS)**, July 2021. (with S. Vahidian, B. Lin) [<a href="https://ieeexplore.ieee.org/document/9545941">Paper</a>] [<a href="https://github.com/MMorafah/Sub-FedAvg">Code</a>] [<a href="https://www.youtube.com/watch?v=ttY7T8W5YQE">Video</a>]
 
 ### Journal Papers
-1. *"Federated Learning Client Pruning for Noisy Labels"*, Under review at **ACM Transactions on Modeling and Performance Evaluation of Computing Systems**, October 2024. (with H. Chang, C. Chen, B. Lin)
+1. *"Federated Learning Client Pruning for Noisy Labels"*, **ACM Transactions on Modeling and Performance Evaluation of Computing Systems**, October 2024. (with H. Chang, C. Chen, B. Lin)
 2. *"FedZoo: A Practical Recipe to Federated Learning With Non-IID Data Experimental Design"*, **IEEE Transactions on Artificial Intelligence (IEEE TAI)**, July 2023. (with W. Wang, B. Lin) [<a href="https://arxiv.org/abs/2208.09754">Paper</a>] [<a href="https://github.com/MMorafah/FedZoo-Bench">Code</a>]
 3. *"FLIS: Clustered Federated Learning via Inference Similarity for Non-IID Data Distribution"*, **IEEE Open Journal of the Computer Society**, March 2023. (with S. Vahidian, W. Wang, B. Lin) [<a href="https://arxiv.org/abs/2209.15595">Paper</a>] [<a href="https://github.com/MMorafah/FLIS">Code</a>]
 4. *"Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks"*, **IEEE Transactions on Artificial Intelligence (IEEE TAI)**, October 2022. (with S. Vahidian, C. Chen, M. Shah, B. Lin) [<a href="https://arxiv.org/abs/2209.15595">Paper</a>] [<a href="https://github.com/MMorafah/FL-SC-NIID">Code</a>]
@@ -35,6 +34,6 @@ For a full list of publications, please see my <a href="{{ site.author.googlesch
 3. *"Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks"*, **International Workshop on Federated Learning in Conjunction with NeurIPS (FL-NeurIPS’22)**, October 2022. (with S. Vahidian, C. Chen, M. Shah, B. Lin) [<a href="https://arxiv.org/abs/2209.15595">Paper</a>] [<a href="https://github.com/MMorafah/FL-SC-NIID">Code</a>] [<a href="https://federated-learning.org/fl-neurips-2022/">Website</a>]
 
 ### Book Chapters
-1. *"Federated Learning - A Systematic Review"*, Under review at **IntechOpen**, October 2024. (with S. Ahmad, M. Alharbi, S. Jha)
+1. *"Federated Learning - A Systematic Review"*, **IntechOpen**, October 2024. (with S. Ahmad, M. Alharbi, S. Jha)
 
 * denotes equal contribution
