@@ -10,10 +10,12 @@ For a full list of publications, please see my <a href="{{ site.author.googlesch
 <p><mark>* denotes equal contribution and authorship</mark></p>
 
 ### Preprints and Working Papers
-1. *"Leveraging GPT for Robust Causal Treatment Effect Estimation in Limited Experimental Settings"*, Working Paper, 2024.
+<!---
 2. *"Data Acquisition via Experimental Design for Decentralized Data Markets"*, Working Paper, 2024. (with V. Kungurtsev)
 3. *"Data Markets and Market Failure: Asymmetric Information and Concentration"*, Working Paper, 2024. (with V. Kungurtsev)
-5. *"Deep Causal Inequalities: Demand Estimation in Differentiated Products Markets"*, Working Paper (draft available upon request), 2024. (with E. Bakhitov, A. Singh, J. Zhang)
+-->
+1. *"Leveraging GPT for Robust Causal Treatment Effect Estimation in Limited Experimental Settings"*, Working Project, 2025.
+2. *"Deep Causal Inequalities: Demand Estimation in Differentiated Products Markets"*, Working Paper (draft available upon request), 2025. (with E. Bakhitov, A. Singh, J. Zhang)
 
 ### Conference Papers
 1. *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"*, **Advances in Neural Information Processing Systems (NeurIPS)**, Dec 2024. (with V. Kungurtsev, H. Chang, C. Chen, B. Lin) [<a href="https://arxiv.org/abs/2409.18461">Paper</a>] [<a href="https://mmorafah.github.io/takflpage/">Project Website</a>] [<a href="https://github.com/mmorafah/takfl">Code</a>]
@@ -34,6 +36,6 @@ For a full list of publications, please see my <a href="{{ site.author.googlesch
 3. *"Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks"*, **International Workshop on Federated Learning in Conjunction with NeurIPS (FL-NeurIPS’22)**, October 2022. (with S. Vahidian, C. Chen, M. Shah, B. Lin) [<a href="https://arxiv.org/abs/2209.15595">Paper</a>] [<a href="https://github.com/MMorafah/FL-SC-NIID">Code</a>] [<a href="https://federated-learning.org/fl-neurips-2022/">Website</a>]
 
 ### Book Chapters
-1. *"Federated Learning - A Systematic Review"*, **IntechOpen**, October 2024. (with S. Ahmad, M. Alharbi, S. Jha)
+1. *"Federated Learning - A Systematic Review"*, **IntechOpen**, December 2024. (with S. Ahmad, M. Alharbi, S. Jha)
 
 * denotes equal contribution
