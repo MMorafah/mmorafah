@@ -21,7 +21,7 @@ In addition to academia, I have conducted industry AI research through internshi
 
 <!-- <mark>**I am on the job market. Please contact me if there are potential openings and collaborations.**</mark> -->
 
-<span style="color: black;">**I am always open to collaborating on exciting AI research projects. Please feel free to reach out if.**</span>
+<span style="color: black;"><strong>I am always open to collaborating on interesting AI research projects and occasionally provide AI consulting to companies and startups. Please feel free to reach out.</strong></span>
 
 # News
 
