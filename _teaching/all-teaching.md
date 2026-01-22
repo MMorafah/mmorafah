@@ -5,6 +5,9 @@ permalink: teaching/
 
 ## Teaching Experience
 
+### University of Pennsylvania
+- **Teaching Assistant**: *Models for Marketing Strategy*, Wharton School of Business, (Fall 2025).
+
 ### University of California San Diego
 - **Developer & Lecturer**: *Generative AI in Business*, Rady School of Management, (Spring 2025).
 - **Senior Teaching Assistant**: Lead TA to Support All MSBA Classes, (Winter 2025).
