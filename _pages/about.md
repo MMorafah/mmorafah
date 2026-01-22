@@ -23,6 +23,8 @@ In addition to academia, I have conducted industry AI research through internshi
 
 <span style="color: black;"><strong>I am always open to collaborating on interesting AI research projects and occasionally provide AI consulting to companies and startups. Please feel free to reach out.</strong></span>
 
+Google Scholar Citations: 501, H-index: 9. 
+
 # News
 
 [December 2025] We are organizing [FedVision'26](https://fedvision.github.io/fedvision2026/) at CVPR 2026. Submit your best works here. Submission Deadline: March 20, 2026
