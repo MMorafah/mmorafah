@@ -23,7 +23,7 @@ For a full list of publications, please see my <a href="{{ site.author.googlesch
 
 ### Under Review Papers
 
-1. A. Chunduru, **M. Morafah**, V. Chellapandi, and A. Li, *"Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data"*, **Under Review at TMLR**, 2025.
+1. A. Chunduru, **M. Morafah**, V. Chellapandi, and A. Li, *"Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data"*, **Under Review at TMLR**, 2026.
 
 2. A. Singh, J. Zhang, **M. Morafah**, and E. Bakhitov, *"Deep Causal Inequalities"*, **Major Revision at Management Science**, 2026.  
    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5385701">Paper</a>]
