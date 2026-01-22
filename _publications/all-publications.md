@@ -45,6 +45,6 @@ For a full list of publications, please see my <a href="{{ site.author.googlesch
 3. **M. Morafah***, S. Vahidian*, C. Chen, M. Shah, and B. Lin, *"Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion and Standard Benchmarks"*, **International Workshop on Federated Learning in Conjunction with NeurIPS (FL-NeurIPS’22)**, October 2022. [<a href="https://arxiv.org/abs/2209.15595">Paper</a>] [<a href="https://github.com/MMorafah/FL-SC-NIID">Code</a>] [<a href="https://federated-learning.org/fl-neurips-2022/">Website</a>]
 
 ### Book Chapters
-1. S. Ahmad, M. Alharbi, **M. Morafah**, and S. Jha, *"Federated Learning - A Systematic Review"*, **IntechOpen**, December 2024.
+1. S. Ahmad, M. Alharbi, **M. Morafah**, and S. Jha, *"Federated Learning - A Systematic Review"*, **IntechOpen**, December 2024. [<a href="https://arxiv.org/abs/2208.09754">Book</a>]
 
 * denotes equal contribution
