@@ -24,11 +24,11 @@ author:
   avatar           : "bio-photo2.jpg" #"profile2.jpeg"
   name             : "Mahdi Morafah"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Electrical and Computer Engineering at UC San Diego<br> AI Researcher"
-  location         : "San Diego, CA"
-  employer         : "UC San Diego"
+  bio              : "Postdoctoral Researcher at Wharton<br> AI Researcher"
+  location         : "USA"
+  employer         : "Upenn"
   uri              : # URL
-  email            : "mmorafah@ucsd.edu" 
+  email            : "morafah.mahdi@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=xrrVYuwAAAAJ&hl=en"
