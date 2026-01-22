@@ -5,6 +5,8 @@ permalink: /publications/
 
 For a full list of publications, please see my <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar profile</a>.
 
+**Citations: 501, H-index: 9, I-10 index: 9**
+
 **Disclaimer:** This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
 
 <p><mark>* denotes equal contribution and authorship</mark></p>
