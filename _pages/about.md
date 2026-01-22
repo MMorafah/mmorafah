@@ -19,7 +19,7 @@ In addition to academia, I have conducted industry AI research through internshi
 
 <!-- In addition to my academic experience, I have completed AI research internships at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI Research. -->
 
-<span style="color: yellow;">**I am on the job market. Please contact me if there are potential openings and collaborations.**</span>
+<mark>**I am on the job market. Please contact me if there are potential openings and collaborations.**</mark>
 
 <!-- <span style="color: black;">**I am also open to collaborating on exciting projects. Please don’t hesitate to contact me.**</span> -->
 
