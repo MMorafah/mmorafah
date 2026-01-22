@@ -9,13 +9,30 @@ For a full list of publications, please see my <a href="{{ site.author.googlesch
 
 <p><mark>* denotes equal contribution and authorship</mark></p>
 
+### Preprints and Working Projects
+
+1. A. Chunduru, **M. Morafah**, et al., *"FedMCP-Policy: Federated Learning of Schema-Aware Tool-Use Policies for LLMs"*, **Working Project**, 2026.
+
+2. H. Zhou, **M. Morafah**, S. Lee, M. Carbin, and S. Arora, *"Why Reweighting Is Not Enough: A Multi-Objective View of Diffusion Training"*, **Working Project**, 2026.
+
+3. **M. Morafah**, K. Zhang, A. Rao, and X. Li, *"Time-Conditioned Orthogonal Adapters for Diffusion Models"*, **Working Project**, 2026.
+
+4. V. Kungurtsev, **M. Morafah**, K. Mugo, and I. Sarmiento-Barbieri, *"Deflating a Bubble While Spurring Growth: The Dual Case for Digital Twins for Agroforestry in Africa"*, **Working Paper**, 2026.
+
+5. V. Kungurtsev, **M. Morafah**, et al., *"Data Markets and Market Failure: Asymmetric Information and Concentration"*, **Working Paper**, 2026.
+
+### Under Review Papers
+
+1. A. Chunduru, **M. Morafah**, V. Chellapandi, and A. Li, *"Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data"*, **Under Review at TMLR**, 2025.
+
+2. A. Singh, J. Zhang, **M. Morafah**, and E. Bakhitov, *"Deep Causal Inequalities"*, **Major Revision at Management Science**, 2026.  
+   [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5385701">Paper</a>]
+
 ### Preprints and Working Papers
 <!---
 2. *"Data Acquisition via Experimental Design for Decentralized Data Markets"*, Working Paper, 2024. (with V. Kungurtsev)
 3. *"Data Markets and Market Failure: Asymmetric Information and Concentration"*, Working Paper, 2024. (with V. Kungurtsev)
 -->
-1. **M. Morafah**, *"Leveraging GPT for Robust Causal Treatment Effect Estimation in Limited Experimental Settings"*, Working Project, 2025.
-2. **M. Morafah***, E. Bakhitov*, A. Singh, and J. Zhang, *"Deep Causal Inequalities: Demand Estimation in Differentiated Products Markets"*, Working Paper (draft available upon request), 2025.
 
 ### Conference Papers
 1. **M. Morafah**, V. Kungurtsev, H. Chang, C. Chen, and B. Lin, *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"*, **Advances in Neural Information Processing Systems (NeurIPS)**, Dec 2024. [<a href="https://arxiv.org/abs/2409.18461">Paper</a>] [<a href="https://mmorafah.github.io/takflpage/">Project Website</a>] [<a href="https://github.com/mmorafah/takfl">Code</a>]
