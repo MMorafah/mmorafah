@@ -19,9 +19,9 @@ In addition to academia, I have conducted industry AI research through internshi
 
 <!-- In addition to my academic experience, I have completed AI research internships at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI Research. -->
 
-<mark>**I am on the job market. Please contact me if there are potential openings and collaborations.**</mark>
+<!-- <mark>**I am on the job market. Please contact me if there are potential openings and collaborations.**</mark> -->
 
-<!-- <span style="color: black;">**I am also open to collaborating on exciting projects. Please don’t hesitate to contact me.**</span> -->
+<span style="color: black;">**I am always open to collaborating on exciting AI research projects. Please feel free to reach out if.**</span>
 
 # News
 
@@ -31,7 +31,7 @@ In addition to academia, I have conducted industry AI research through internshi
 
 [December 2024] Our paper *"Federated Learning Client Pruning for Noisy Labels"* **Accepted to ACM Transactions on Modeling and Performance Evaluation of Computing Systems** [[Paper](https://arxiv.org/abs/2411.07391), [Code](https://github.com/MMorafah/ClipFL)].
 
-[October 2024] <mark>INFORMS Annual Meeting</mark>  I will present our work *"Deep Causal Inequalities: Demand Estimation in the Differentiated Products Markets"* at **INFORMS 2024** on Sunday, October 20, 2:15 PM - 3:30 PM, summit - 338.
+<!-- [October 2024] <mark>INFORMS Annual Meeting</mark>  I will present our work *"Deep Causal Inequalities: Demand Estimation in the Differentiated Products Markets"* at **INFORMS 2024** on Sunday, October 20, 2:15 PM - 3:30 PM, summit - 338. -->
 
 [September 2024]  Our paper *"Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration"* **Accepted to NeurIPS 2024** [[Paper](https://arxiv.org/abs/2409.18461), [Project Website](https://mmorafah.github.io/takflpage/), [Code](https://github.com/mmorafah/takfl)].
 
