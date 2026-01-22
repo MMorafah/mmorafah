@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at Wharton<br> AI Researcher"
   location         : "USA"
-  employer         : "Upenn"
+  employer         : # "Upenn"
   uri              : # URL
   email            : "morafah.mahdi@gmail.com" 
 
