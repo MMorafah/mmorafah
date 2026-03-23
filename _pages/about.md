@@ -23,7 +23,7 @@ In addition to academia, I have conducted industry AI research through internshi
 
 <span style="color: black;"><strong>I am always open to collaborating on interesting AI research projects and occasionally provide AI consulting to companies and startups. Please feel free to reach out.</strong></span>
 
-Google Scholar Citations: 501, H-index: 9. 
+Google Scholar Citations: 560, H-index: 9.
 
 # News
 
